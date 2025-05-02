@@ -27,4 +27,7 @@ O wireshark pode ser baixado [AQUI](https://www.wireshark.org/download.html).
 
 
 
-![Wireshark fundamentals](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/wireshark_video.jpg)](https://youtu.be/OU-A2EmVrKQ?si=hR9WdTLUBgNPpQrR)
+[![Wireshark fundamentals](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/wireshark_video.jpg)]
+(https://youtu.be/OU-A2EmVrKQ?si=hR9WdTLUBgNPpQrR)
+
+[![Wireshark fundamentals](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/wireshark_video.jpg)](https://youtu.be/OU-A2EmVrKQ?si=hR9WdTLUBgNPpQrR "Wireshark fundamentals")

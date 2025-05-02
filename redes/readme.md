@@ -8,9 +8,9 @@
  
  Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [AQUI](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
     
-Fixação do aprendizado:
+**Fixação do aprendizado:**
 
-Resolução dos labs de wireshark ([https://gaia.cs.umass.edu/kurose_ross/wireshark.php](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) especialmente para quem vai [trabalhar](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/redes) com conjuntos de dados (datasets) de redes.
+Resolução dos labs de wireshark ([https://gaia.cs.umass.edu/kurose_ross/wireshark.php](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) especialmente para quem vai [trabalhar posteriormente](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/redes) com conjuntos de dados (datasets) de redes.
 
 **Wireshark**
 

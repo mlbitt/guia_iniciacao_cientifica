@@ -3,7 +3,7 @@
 
 **Caso o aluno não tenha feito a disciplina de redes de computadores (ou disciplina similar) são sugeridos os seguintes passos para integração ao grupo:**
 
- Livro de referência: Computer Networking: a Top Down Approach (J.F. Kurose, K.W. Ross)
+## Livro de referência: Computer Networking: a Top Down Approach (J.F. Kurose, K.W. Ross)
 
 
 

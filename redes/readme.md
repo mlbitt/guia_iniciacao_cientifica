@@ -9,7 +9,7 @@
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg" alt="Texto alternativo" width="200" height="300">
 
- - Leitura dos capítulos 1 e 8 **(obrigatório)**
+ - Leitura dos capítulos 1 e 8 **(obrigatória)**
  - Leitura dos demais capítulos **(amplamente desejável)**
  
  Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [**AQUI**](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).

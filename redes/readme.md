@@ -22,6 +22,9 @@ O Wireshar é um analisador de protocolos de rede. Suas principais funções sã
     no meio de um pacote de rede. Ele também permite visualizar conversas e fluxos de rede inteiros.
 ![Visualizando uma captura de pacote no Wireshark (https://www.wireshark.org/)](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/packet-capture-in-wireshark.jpg)
 
+
 O wireshark pode ser baixado [AQUI](https://www.wireshark.org/download.html).
 
 <iframe width="560" height="315" src="https://youtu.be/OU-A2EmVrKQ?si=fc3dHedB2ePz7UIl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video src="https://youtu.be/OU-A2EmVrKQ?si=fc3dHedB2ePz7UIl" width="320" height="240" controls></video>

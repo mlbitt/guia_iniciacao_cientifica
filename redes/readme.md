@@ -1,10 +1,14 @@
+
 ## Introdução às redes de computadores
 
 **Caso o aluno não tenha feito a disciplina de redes de computadores (ou disciplina similar) são sugeridos os seguintes passos para integração ao grupo:**
 
  Livro de referência: Computer Networking: a Top Down Approach (J.F. Kurose, K.W. Ross)
- -   Leitura dos capítulos 1 e 8 (obrigatório)
- - Leitura dos demais capítulos (amplamente desejável)
+
+![enter image description here](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg)
+
+ - Leitura dos capítulos 1 e 8 **(obrigatório)**
+ - Leitura dos demais capítulos **(amplamente desejável)**
  
  Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [AQUI](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
     
@@ -29,3 +33,6 @@ O Wireshar é um analisador de protocolos de rede. Suas principais funções sã
 [![Wireshark fundamentals](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/wireshark_video.jpg)](https://youtu.be/OU-A2EmVrKQ?si=hR9WdTLUBgNPpQrR "Wireshark fundamentals")
 
 **O wireshark pode ser baixado [AQUI](https://www.wireshark.org/download.html).**
+
+
+

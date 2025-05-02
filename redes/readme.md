@@ -7,6 +7,8 @@
 
 ![enter image description here](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg)
 
+<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg" alt="Texto alternativo" width="100" height="250">
+
  - Leitura dos capítulos 1 e 8 **(obrigatório)**
  - Leitura dos demais capítulos **(amplamente desejável)**
  

@@ -10,13 +10,13 @@
  - Leitura dos capítulos 1 e 8 **(obrigatório)**
  - Leitura dos demais capítulos **(amplamente desejável)**
  
- Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [AQUI](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
+ Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [**AQUI**](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
     
 **Fixação do aprendizado:**
 
-Resolução dos labs de wireshark ([https://gaia.cs.umass.edu/kurose_ross/wireshark.php](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) especialmente para quem vai [trabalhar posteriormente](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/redes) com conjuntos de dados (datasets) de redes.
+Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)** (https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) especialmente importante para quem vai trabalhar posteriormente com [conjuntos de dados (datasets) de redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede).
 
-**Wireshark**
+**OK, o que é Wireshark?**
 
 O Wireshar é um analisador de protocolos de rede. Suas principais funções são:
 
@@ -32,7 +32,4 @@ O Wireshar é um analisador de protocolos de rede. Suas principais funções sã
 
 [![Wireshark fundamentals](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/wireshark_video.jpg)](https://youtu.be/OU-A2EmVrKQ?si=hR9WdTLUBgNPpQrR "Wireshark fundamentals")
 
-**O wireshark pode ser baixado [AQUI](https://www.wireshark.org/download.html).**
-
-
-
+## **O wireshark pode ser baixado [AQUI](https://www.wireshark.org/download.html).**

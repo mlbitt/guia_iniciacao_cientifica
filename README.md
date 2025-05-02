@@ -17,4 +17,4 @@ Para todos os alunos que forem lidar com conjuntos de dados, a sugestão é segu
 
 Finalmente, para os alunos que forem trabalhar com modelos de aprendizagem de máquina, sugerimos o [Módulo de Aprendizagem de Máquina.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/aprendizagem_maquina)
 
-O intuído deste repositório não é oferecer todos os conceitos, técnicas e ferramentas para cada tópico. O objetivo é oferecer uma visão geral de maneira a auxiliar o aluno com suas pesquisas e o cumprimento do plano de trabalho estabelecido previamente.
+O intúito deste repositório não é oferecer todos os conceitos, técnicas e ferramentas para cada tópico. O objetivo é oferecer uma visão geral de maneira a auxiliar o aluno com suas pesquisas e o cumprimento do plano de trabalho estabelecido previamente.

@@ -6,3 +6,15 @@ O material de referência contido neste repositório tem como objetivo auxiliar 
 Os tópicos sugeridos suportam as principais linhas de pesquisa desenvolvidas dentro do grupo e servem tanto como uma base para as tarefas a serem desenvolvidas como uma sequência lógica de aprendizado.
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/mapa_topicos.jpeg" alt="Texto alternativo" width="800" height="300">
+
+**O desenvolvimento do aluno vai depender do nível de conhecimento atual e das atividades em que o mesmo irá se envolver.**
+
+Para todos os alunos que ainda não estão familiarizados com as redes de computadores, sugerimos iniciar pelo [Módulo de Fundamentos de Redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/redes).
+
+Após a conclusão da parte de introdução às redes de computadores, sugerimos um aprofundamento para o [Módulo de Tráfego de Rede](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede)s.
+
+Para todos os alunos que forem lidar com conjuntos de dados, a sugestão é seguir para o [Módulo de Análise de Dados.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/analise_dados)
+
+Finalmente, para os alunos que forem trabalhar com modelos de aprendizagem de máquina, sugerimos o [Módulo de Aprendizagem de Máquina.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/aprendizagem_maquina)
+
+O intuído deste repositório não é oferecer todos os conceitos, técnicas e ferramentas para cada tópico. O objetivo é oferecer uma visão geral sobre cada tópico de maneira a auxiliar o aluno com suas pesquisas e o comprimento do plano de trabalho estabelecido previamente.

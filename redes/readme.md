@@ -5,9 +5,9 @@
 
  Livro de referência: Computer Networking: a Top Down Approach (J.F. Kurose, K.W. Ross)
 
-![enter image description here](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg)
 
-<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg" alt="Texto alternativo" width="100" height="250">
+
+<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/redes/computer_networks.jpg" alt="Texto alternativo" width="200" height="350">
 
  - Leitura dos capítulos 1 e 8 **(obrigatório)**
  - Leitura dos demais capítulos **(amplamente desejável)**

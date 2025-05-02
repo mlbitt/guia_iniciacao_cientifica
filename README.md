@@ -1,1 +1,1 @@
-# IC_guidelines
+# Guia para alunos de iniciação científica do grupo CCSC

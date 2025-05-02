@@ -16,7 +16,7 @@
     
 **Fixação do aprendizado:**
 
-Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)** (https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) especialmente importante para quem vai trabalhar posteriormente com [conjuntos de dados (datasets) de redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede).
+Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)** e são especialmente importantes para quem vai trabalhar posteriormente com [conjuntos de dados (datasets) de redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede).
 
 **OK, o que é Wireshark?**
 

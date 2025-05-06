@@ -1,3 +1,4 @@
+
 ## Análise de dados
 
 Os experimentos e análises conduzidas dentro do grupo geralmente ocorrem através da avaliação de um conjunto de dados. Dentro do nosso escopo geralmente esses dados refletem uma captura de tráfego de rede que contém informações importantes sobre a comunicação entre os dispositivos dentro dessa rede. Entretanto, a comunicação entre dispositivos em uma rede é bastante complexa e gera uma coleção de dados também complexa. Para ter um conjunto de dados consistente e que represente as características necessárias para resolução de um problema específico, em geral é feita a análise dos dados.
@@ -15,10 +16,26 @@ Dentro do grupo trabalhamos com a análise de dados utilizando Python. Sendo ass
  A primeira opção trará uma maior longevidade no desenvolvimento ao custo de uma curva de aprendizagem mais íngreme. A segunda opção trará uma maior facilidade inicial ao custo de uma necessidade de ambientação posterior, como instalação de ferramentas e otimização de recursos.
 Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir mais confortável.
 
-## Bibliografia sugerida:Python for Data Analysis
+## Introdução a Análise de Dados Bibliografia sugerida
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
 
-Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo.
+Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo. Entretanto, para familiarização com o Python é necessário ler e implementar os códigos dos Capítulos [1](https://wesmckinney.com/book/preliminaries) e [2](https://wesmckinney.com/book/python-basics).
+
+## Limpeza e preparação dos dados
+
+Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, predição, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [Capítulo 7](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
+
+## Passos iniciais com a Ciência de Dados e Aprendizagem de Máquina Bibliografia sugerida
+
+**Python Data Science Handbook**
+
+<img src="PDSH-cover.png">
+
+
+
+
+
+

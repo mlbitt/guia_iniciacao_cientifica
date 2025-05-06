@@ -9,9 +9,9 @@ A **análise de dados** é um processo de inspeção, limpeza, transformação e
 
 **Dentro do grupo trabalhamos com a análise de dados utilizando prioritariamente Python. Sendo assim, uma ambientação com essa linguagem de programação é altamente desejável.**
 
-**Os primeiros passos com a linguagem podem ocorrer de duas formas:
+**Os primeiros passos com a linguagem podem ocorrer de duas formas:**
  1. Utilizando um ambiente de programação para Python como PyCharm, Netbeans, Spyder.
- 2. Utilizando um ambiente interativo como Google Colab ou Jupyter Notebooks.**
+ 2. Utilizando um ambiente interativo como Google Colab ou Jupyter Notebooks.
  
  A primeira opção trará uma maior longevidade no desenvolvimento ao custo de uma curva de aprendizagem mais íngreme. A segunda opção trará uma maior facilidade inicial ao custo de uma necessidade de ambientação posterior, como instalação de ferramentas e otimização de recursos.
 Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir mais confortável.

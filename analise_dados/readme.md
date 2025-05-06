@@ -16,20 +16,33 @@ Dentro do grupo trabalhamos com a análise de dados utilizando Python. Sendo ass
  A primeira opção trará uma maior longevidade no desenvolvimento ao custo de uma curva de aprendizagem mais íngreme. A segunda opção trará uma maior facilidade inicial ao custo de uma necessidade de ambientação posterior, como instalação de ferramentas e otimização de recursos.
 Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir mais confortável.
 
-## Introdução a Análise de Dados Bibliografia sugerida
+## Introdução a Análise de Dados
 
+**Bibliografia sugerida livro: Python for Data Analysis**
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
 
 Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo. Entretanto, para familiarização com o Python é necessário ler e implementar os códigos dos Capítulos [1](https://wesmckinney.com/book/preliminaries) e [2](https://wesmckinney.com/book/python-basics).
 
-## Limpeza e preparação dos dados
+## Limpeza e Preparação dos Dados
 
 Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, predição, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [Capítulo 7](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
 
-## Passos iniciais com a Ciência de Dados e Aprendizagem de Máquina Bibliografia sugerida
+## Ferramentas para Preparação dos Dados e Introdução a Machine Learning
 
-**Python Data Science Handbook**
-
+**Bibliografia sugerida livro: Python Data Science Handbook**
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/PDSH-cover.png" alt="Texto alternativo" width="200" height="300">
+
+A versão aberta do livro está disponível [AQUI](https://jakevdp.github.io/PythonDataScienceHandbook/).
+
+Para limpeza e preparação dos dados com Python são empregadas uma coleção de ferramentas, procedimentos, bibliotecas da linguagem, entre outros. A bibliografia sugerida oferece um overview das principais ferramentas, sempre com exemplos práticos que podem ser utilizados em ambientes de programação convencionais ou interativos.
+
+O livro aborda as principais bibliotecas que servem como suporte para a preparação de dados e serão utilizadas posteriormente na implementação e testes de ferramentas de modelos de machine learning. 
+
+As principais ferramentas abordadas são:
+
+ 1. A biblioteca [NumPy](https://numpy.org/) para computação científica no Python.
+ 2. A ferramenta para análise de dados [Pandas](https://pandas.pydata.org/).
+ 3. A ferramenta de visualização de dados e plotagem de gráficos [Matplot](https://matplotlib.org/).
+ 4. Uma [introdução](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html) aos principais conceitos e algoritmos de machine learning.

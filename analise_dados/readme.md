@@ -16,7 +16,7 @@ Os primeiros passos com a linguagem podem ocorrer de duas formas:
  A primeira opção trará uma maior longevidade no desenvolvimento ao custo de uma curva de aprendizagem mais íngreme. A segunda opção trará uma maior facilidade inicial ao custo de uma necessidade de ambientação posterior, como instalação de ferramentas e otimização de recursos.
 Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir mais confortável.
 
-Bibliografia sugerida:# Python for Data Analysis
+## Bibliografia sugerida:Python for Data Analysis
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
 

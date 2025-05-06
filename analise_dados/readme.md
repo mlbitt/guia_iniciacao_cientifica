@@ -19,6 +19,7 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 ## Introdução a Análise de Dados
 
 **Bibliografia sugerida livro: Python for Data Analysis**
+
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
@@ -32,6 +33,7 @@ Um passo muito importante é parte de preparação dos dados para serem utilizad
 ## Ferramentas para Preparação dos Dados e Introdução a Machine Learning
 
 **Bibliografia sugerida livro: Python Data Science Handbook**
+
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/PDSH-cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [AQUI](https://jakevdp.github.io/PythonDataScienceHandbook/).

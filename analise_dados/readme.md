@@ -18,5 +18,5 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 
 Bibliografia sugerida:# Python for Data Analysis
 
-![enter image description here](https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png width="200" height="300")
+img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300"
 

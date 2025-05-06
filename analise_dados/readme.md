@@ -1,4 +1,3 @@
-
 ## Análise de dados
 
 Os experimentos e análises conduzidas dentro do grupo geralmente ocorrem através da avaliação de um conjunto de dados. Dentro do nosso escopo geralmente esses dados refletem uma captura de tráfego de rede que contém informações importantes sobre a comunicação entre os dispositivos dentro dessa rede. Entretanto, a comunicação entre dispositivos em uma rede é bastante complexa e gera uma coleção de dados também complexa. Para ter um conjunto de dados consistente e que represente as características necessárias para resolução de um problema específico, em geral é feita a análise dos dados.
@@ -23,5 +22,3 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
 
 Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo.
-
-

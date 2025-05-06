@@ -24,7 +24,7 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 
 A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
 
-Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo. Entretanto, para familiarização com o Python é necessário ler e implementar os códigos dos Capítulos [1](https://wesmckinney.com/book/preliminaries) e [2](https://wesmckinney.com/book/python-basics).
+Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo. **Entretanto, para familiarização com o Python é necessário ler e implementar os códigos dos Capítulos [1](https://wesmckinney.com/book/preliminaries) e [2](https://wesmckinney.com/book/python-basics).**
 
 ## Limpeza e Preparação dos Dados
 

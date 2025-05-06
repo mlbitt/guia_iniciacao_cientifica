@@ -7,7 +7,7 @@ A **análise de dados** é um processo de inspeção, limpeza, transformação e
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/Data_Science_VD.png" alt="Texto alternativo" width="300" height="300">
 
-**Dentro do grupo trabalhamos com a análise de dados utilizando Python. Sendo assim, uma ambientação com essa linguagem de programação é altamente desejável.**
+**Dentro do grupo trabalhamos com a análise de dados utilizando prioritariamente Python. Sendo assim, uma ambientação com essa linguagem de programação é altamente desejável.**
 
 **Os primeiros passos com a linguagem podem ocorrer de duas formas:
  1. Utilizando um ambiente de programação para Python como PyCharm, Netbeans, Spyder.

@@ -32,7 +32,7 @@ Um passo muito importante é parte de preparação dos dados para serem utilizad
 
 **Bibliografia sugerida livro: Python Data Science Handbook**
 
-<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/PDSH-cover.png" alt="Texto alternativo" width="200" height="300">
+<img src="PDSH-cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [**AQUI**](https://jakevdp.github.io/PythonDataScienceHandbook/).
 

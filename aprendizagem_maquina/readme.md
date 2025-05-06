@@ -29,7 +29,7 @@ Dentro do grupo o aprendizado de máquina é utilizado para resolver problemas r
 
 No módulo de [análise de dados](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/analise_dados) foi apresentado um panorama geral sobre aprendizagem de máquina e seus principais conceitos e alguns dos principais algoritmos. O capítulo 5 do livro Python Data Science Handbook pode ser acessado gratuitamente **[AQUI](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html)**. 
 
-Para um maior aprofundamento acerca dos conceitos de aprendizagem de máquina a sugestão é o curso **Introduction to Machine Learning** que está disponível para consulta [AQUI](https://tomaszgolan.github.io/introduction_to_machine_learning/).
+## Para um maior aprofundamento acerca dos conceitos de aprendizagem de máquina a sugestão é o curso **Introduction to Machine Learning** que está disponível para consulta [AQUI](https://tomaszgolan.github.io/introduction_to_machine_learning/).
 
 O curso é desenvolvido pelo [Prof. Tomasz Golan](http://www.ift.uni.wroc.pl/~tgolan/), tanto em versão para o Google Colab quanto para interfaces de desenvolvimento convencional e cobre os seguintes tópicos:
 

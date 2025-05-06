@@ -11,7 +11,7 @@ A **análise de dados** é um processo de inspeção, limpeza, transformação e
 
 **Os primeiros passos com a linguagem podem ocorrer de duas formas:**
  1. Utilizando um ambiente de programação para Python como PyCharm, Netbeans, Spyder.
- 2. Utilizando um ambiente interativo como Google Colab ou Jupyter Notebooks.
+ 2. Utilizando um ambiente interativo como [Google Colab](https://colab.research.google.com/) ou [Jupyter Notebooks](https://jupyter.org/try-jupyter/lab/).
  
  A primeira opção trará uma maior longevidade no desenvolvimento ao custo de uma curva de aprendizagem mais íngreme. A segunda opção trará uma maior facilidade inicial ao custo de uma necessidade de ambientação posterior, como instalação de ferramentas e otimização de recursos.
 Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir mais confortável.
@@ -22,13 +22,13 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
 
-A versão aberta do livro está disponível [AQUI](https://wesmckinney.com/book/).
+A versão aberta do livro está disponível [**AQUI**](https://wesmckinney.com/book/).
 
 Todo o livro é muito interessante e os códigos fornecidos podem ser executados tanto em ambiente de programação convencional quanto em ambiente interativo. **Entretanto, para familiarização com o Python é necessário ler e implementar os códigos dos Capítulos [1](https://wesmckinney.com/book/preliminaries) e [2](https://wesmckinney.com/book/python-basics).**
 
 ## Limpeza e Preparação dos Dados
 
-Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, predição, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [Capítulo 7](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
+Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, predição, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [**Capítulo 7**](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
 
 ## Ferramentas para Preparação dos Dados e Introdução a Machine Learning
 
@@ -36,7 +36,7 @@ Um passo muito importante é parte de preparação dos dados para serem utilizad
 
 <img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/PDSH-cover.png" alt="Texto alternativo" width="200" height="300">
 
-A versão aberta do livro está disponível [AQUI](https://jakevdp.github.io/PythonDataScienceHandbook/).
+A versão aberta do livro está disponível [**AQUI**](https://jakevdp.github.io/PythonDataScienceHandbook/).
 
 Para limpeza e preparação dos dados com Python são empregadas uma coleção de ferramentas, procedimentos, bibliotecas da linguagem, entre outros. A bibliografia sugerida oferece um overview das principais ferramentas, sempre com exemplos práticos que podem ser utilizados em ambientes de programação convencionais ou interativos.
 

@@ -18,7 +18,7 @@ Os primeiros passos podem ser executados com a ferramenta que o aluno se sentir 
 
 **Bibliografia sugerida livro: Python for Data Analysis**
 
-<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/cover.png" alt="Texto alternativo" width="200" height="300">
+<img src="cover.png" alt="Texto alternativo" width="200" height="300">
 
 A versão aberta do livro está disponível [**AQUI**](https://wesmckinney.com/book/).
 

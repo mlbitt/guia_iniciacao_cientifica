@@ -31,11 +31,4 @@ Um passo muito importante é parte de preparação dos dados para serem utilizad
 ## Passos iniciais com a Ciência de Dados e Aprendizagem de Máquina Bibliografia sugerida
 
 **Python Data Science Handbook**
-
-<img src="PDSH-cover.png">
-
-
-
-
-
-
+<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/PDSH-cover.png" alt="Texto alternativo" width="200" height="300">

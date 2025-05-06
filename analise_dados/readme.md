@@ -5,7 +5,7 @@ Os experimentos e análises conduzidas dentro do grupo geralmente ocorrem atrav�
 
 A **análise de dados** é um processo de inspeção, limpeza, transformação e [modelagem de](https://pt.wikipedia.org/wiki/Modelagem_de_dados "Modelagem de dados")  [dados](https://pt.wikipedia.org/wiki/Dados "Dados") com o objetivo de descobrir informações úteis, informar conclusões e apoiar a tomada de decisões. A análise de dados tem múltiplas facetas e abordagens, abrangendo diversas técnicas sob uma variedade de nomes, e é usada em diferentes domínios dos negócios, ciências e [ciências sociais](https://pt.wikipedia.org/wiki/Ci%C3%AAncias_sociais "Ciências sociais"). No mundo dos negócios de hoje, a análise de dados desempenha um papel tornando a tomada de decisões mais científicas e ajudando as empresas a operar com mais eficácia.[[1]](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_dados#cite_note-1)
 
-<img src="https://github.com/fernandonakayama/guia_iniciacao_cientifica/blob/main/analise_dados/Data_Science_VD.png" alt="Texto alternativo" width="300" height="300">
+<img src="Data_Science_VD.png" alt="Texto alternativo" width="300" height="300">
 
 **Dentro do grupo trabalhamos com a análise de dados utilizando prioritariamente Python. Sendo assim, uma ambientação com essa linguagem de programação é altamente desejável.**
 

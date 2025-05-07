@@ -23,6 +23,7 @@ O aprendizado de máquina permite que os sistemas de computador se ajustem e se 
 |     |       |  neurais multinível                                       |
 |     |       |                                                           |
 +-----+-------+-----------------------------------------------------------+
+Imagem baseada no minicurso do [Prof. Tomasz Golan](http://www.ift.uni.wroc.pl/~tgolan/)
 ```
 
 Dentro do grupo o aprendizado de máquina é utilizado para resolver problemas relacionados à classificação e predição de eventos relacionados à Cibersegurança e empregando dados oriundos das redes de computadores. Essa é a lógica aplicada na formulação dos módulos oferecidos neste repositório e que envolve: a compreensão dos conceitos relacionados às redes de computadores, o entendimento acerca da coleta, manipulação e uso dos dados provenientes das redes de computadores, e do uso da análise de dados e aplicação de aprendizagem de máquina para resolução de problemas.

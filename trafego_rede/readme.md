@@ -52,7 +52,7 @@ Limpar e transformar os dados para garantir que estejam prontos para análise es
 ---
 
 ### Descrição
-Essa fase envolve o tratamento de dados faltantes, normalização de valores, codificação de atributos categóricos e transformação de dados temporais ou textuais. O objetivo é preparar os dados para análises estatísticas ou para o treinamento de modelos de machine learning. A manipulação de dados é essencial para garantir que os modelos não sejam impactados por dados inadequados ou inconsistentes.
+Essa fase envolve o tratamento de dados faltantes, normalização de valores, codificação de atributos categóricos e transformação de dados temporais ou textuais. O objetivo é preparar os dados para análises estatísticas ou para o treinamento de modelos de IA. A manipulação de dados é essencial para garantir que os modelos não sejam impactados por dados inadequados ou inconsistentes.
 
 ---
 

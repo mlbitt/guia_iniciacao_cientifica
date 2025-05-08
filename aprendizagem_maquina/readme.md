@@ -32,6 +32,8 @@ No módulo de [análise de dados](https://github.com/fernandonakayama/guia_inici
 
 ## Para um maior aprofundamento acerca dos conceitos de aprendizagem de máquina a sugestão é o curso **Introduction to Machine Learning** que está disponível para consulta [AQUI](https://tomaszgolan.github.io/introduction_to_machine_learning/).
 
+<img src="classification.png" alt="Classification" width="430" height="300">
+
 O curso é desenvolvido pelo [Prof. Tomasz Golan](http://www.ift.uni.wroc.pl/~tgolan/), tanto em versão para o Google Colab quanto para interfaces de desenvolvimento convencional e cobre os seguintes tópicos:
 
 -   Introduction:  [Colaboratory](https://colab.research.google.com/drive/1qJj4jZMpBpfCkHc0bavFGezx8bhJlVcx)  or  [GitHub](https://github.com/TomaszGolan/introduction_to_machine_learning/blob/master/docs/notebooks/introduction_to_machine_learning_00_intro.ipynb)

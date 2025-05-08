@@ -5,7 +5,7 @@
 O material de referência contido neste repositório tem como objetivo auxiliar os alunos de iniciação científica (e demais interessados) nos primeiros passos considerando uma lista de tópicos relevantes dentro do grupo CCSC.
 Os tópicos sugeridos suportam as principais linhas de pesquisa desenvolvidas dentro do grupo e servem tanto como uma base para as tarefas a serem desenvolvidas como uma sequência lógica de aprendizado.
 
-<img src="mapa_topicos.jpeg" alt="Texto alternativo" width="800" height="300">
+<img src="mapa_topicos.png" alt="Texto alternativo" width="800" height="300">
 
 **O desenvolvimento do aluno vai depender do nível de conhecimento atual e das atividades em que o mesmo irá se envolver.**
 

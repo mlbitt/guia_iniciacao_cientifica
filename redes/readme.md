@@ -14,9 +14,18 @@
  
  Vídeos de apoio, notas de aula do autor e alguns exercícios podem ser encontrados [**AQUI**](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
     
-**Fixação do aprendizado:**
+
+## Fixação do aprendizado:
 
 Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)** e são especialmente importantes para quem vai trabalhar posteriormente com [conjuntos de dados (datasets) de redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede).
+
+**Os labs indicados são:**
+
+**[HTTP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)**
+**[TCP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v8.0.pdf)**
+**[UDP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.0.pdf)**
+**[IP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v8.0.pdf)**
+
 
 **OK, o que é Wireshark?**
 

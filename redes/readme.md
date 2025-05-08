@@ -21,11 +21,10 @@ Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass
 
 **Os labs indicados são:**
 
-**[HTTP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)**
-**[TCP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v8.0.pdf)**
-**[UDP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.0.pdf)**
-**[IP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v8.0.pdf)**
-
+ 1. **[HTTP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf)**
+ 2. **[TCP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v8.0.pdf)**
+ 3. **[UDP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.0.pdf)**
+ 4. **[IP](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v8.0.pdf)**
 
 **OK, o que é Wireshark?**
 

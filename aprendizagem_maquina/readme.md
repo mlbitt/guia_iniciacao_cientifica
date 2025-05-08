@@ -48,7 +48,7 @@ O curso é desenvolvido pelo [Prof. Tomasz Golan](http://www.ift.uni.wroc.pl/~tg
     
 -   Deep learning ([Colaboratory](https://colab.research.google.com/drive/1pW-SvZ62L-WZRtRyZ-rFETt5L24V7XEz)  or  [GitHub](https://github.com/TomaszGolan/introduction_to_machine_learning/blob/master/docs/notebooks/introduction_to_machine_learning_05_dl.ipynb))
 
-## Sugestão de leitura direcionada à cibersegurança:
+## Sugestão de leitura direcionada à cibersegurança - Material desenvolvido por membros do CCSC:
 [](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/25634)
 
 ### [Introdução à Ciência de Dados em Cibersegurança](https://books-sol.sbc.org.br/index.php/sbc/catalog/download/151/646/1152?inline=1)

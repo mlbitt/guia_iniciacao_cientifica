@@ -40,7 +40,7 @@ Após a captura, os arquivos PCAP precisam ser convertidos para um formato tabul
 ## 3. Pré-processamento dos Dados
 
 ### Objetivo
-Limpar e transformar os dados para garantir que estejam prontos para análise estatística ou treinamento de modelos de machine learning.
+Limpar e transformar os dados para garantir que estejam prontos para análise estatística ou treinamento de modelos de IA.
 
 ---
 

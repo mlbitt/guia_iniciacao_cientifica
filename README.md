@@ -15,6 +15,9 @@ Após a conclusão da parte de introdução às redes de computadores, sugerimos
 
 Para todos os alunos que forem lidar com conjuntos de dados, a sugestão é seguir para o [Módulo de Análise de Dados.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/analise_dados)
 
-Finalmente, para os alunos que forem trabalhar com modelos de aprendizagem de máquina, sugerimos o [Módulo de Aprendizagem de Máquina.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/aprendizagem_maquina)
+Para os alunos que forem trabalhar com modelos de aprendizagem de máquina, sugerimos o [Módulo de Aprendizagem de Máquina.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/aprendizagem_maquina)
+
+Finalmente o Módulo [Machine Learning Pipeline](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/Machine-learning-Pipeline) oferece um passo a passo em Notebooks do fluxo de trabalho para Machine Learning.
+
 
 O intuito deste repositório não é oferecer todos os conceitos, técnicas e ferramentas para cada tópico. O objetivo é oferecer uma visão geral de maneira a auxiliar o aluno com suas pesquisas e o cumprimento do plano de trabalho estabelecido previamente.

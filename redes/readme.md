@@ -28,7 +28,7 @@ Laboratórios de Wireshark podem ser encontrados **[AQUI!](https://gaia.cs.umass
 
 **OK, o que é Wireshark?**
 
-O Wireshar é um analisador de protocolos de rede. Suas principais funções são:
+O Wireshark é um analisador de protocolos de rede. Suas principais funções são:
 
  1. Captura de pacotes: o Wireshark monitora uma conexão de rede em tempo real e então captura fluxos inteiros de tráfego — possivelmente dezenas de milhares de pacotes por vez. 
  2. Filtragem: O Wireshark é capaz de segmentar todos esses dados aleatórios em tempo real usando filtros. Ao aplicar um filtro, você pode obter apenas as informações que precisa ver. 

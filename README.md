@@ -11,11 +11,11 @@ Os tópicos sugeridos suportam as principais linhas de pesquisa desenvolvidas de
 
 Para todos os alunos que ainda não estão familiarizados com as redes de computadores, sugerimos iniciar pelo [Módulo de Fundamentos de Redes](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/redes).
 
-Após a conclusão da parte de introdução às redes de computadores, sugerimos um aprofundamento para o [Módulo de Tráfego de Rede](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede)s.
-
 Para todos os alunos que forem lidar com conjuntos de dados, a sugestão é seguir para o [Módulo de Análise de Dados.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/analise_dados)
 
 Para os alunos que forem trabalhar com modelos de aprendizagem de máquina, sugerimos o [Módulo de Aprendizagem de Máquina.](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/aprendizagem_maquina)
+
+Após a conclusão da parte de introdução às redes de computadores e análise de dados, sugerimos um aprofundamento para o [Módulo de Tráfego de Rede](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/trafego_rede)s.
 
 Finalmente o Módulo [Machine Learning Pipeline](https://github.com/fernandonakayama/guia_iniciacao_cientifica/tree/main/Machine-learning-Pipeline) oferece um passo a passo em Notebooks do fluxo de trabalho para Machine Learning.
 

@@ -26,7 +26,7 @@ Todo o livro é muito interessante e os códigos fornecidos podem ser executados
 
 ## Limpeza e Preparação dos Dados
 
-Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, predição, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [**Capítulo 7**](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
+Um passo muito importante é parte de preparação dos dados para serem utilizados para um propósito específico (classificação, regressão). Esse passo é um dos mais importantes e vai exigir a intersecção de conhecimentos considerando-se o módulo de ambientação às redes de computadores, a programação em Python e o uso de ferramentas específicas. O [**Capítulo 7**](https://wesmckinney.com/book/data-cleaning) do livro Python for Data Analysis cobre os conceitos fundamentais sobre limpeza e preparação de um conjunto de dados.
 
 ## Ferramentas para Preparação dos Dados e Introdução a Machine Learning
 

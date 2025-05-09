@@ -1,7 +1,6 @@
 # 🚀 Machine Learning Pipeline Notebooks 📊
 
 **Autora do curso:** [Vidhi Waghela](https://github.com/Vidhi1290/Machine-learning-Pipeline)
-**LinkedIn:**  [Conecte-se](https://www.linkedin.com/in/vidhi-waghela-434663198/)
 
 Bem-vindo ao repositório de notebooks de Pipeline de Aprendizado de Máquina! Se você busca dominar a arte da tomada de decisões orientada por dados, está no lugar certo. Esta coleção de notebooks do Jupyter foi projetada para ser seu guia completo para entender e implementar todo o fluxo de trabalho de aprendizado de máquina. Do pré-processamento de dados à avaliação e implantação de modelos. 💡
 
@@ -23,4 +22,4 @@ Bem-vindo ao repositório de notebooks de Pipeline de Aprendizado de Máquina! S
 
 8. **08-final-machine-learning-pipeline.ipynb**: Junte tudo! Crie um pipeline final de aprendizado de máquina que encapsule todas as etapas, da análise de dados à implantação do modelo, garantindo um processo contínuo e repetível.
 
-Sinta-se à vontade para explorar estes notebooks no seu próprio ritmo, adaptá-los aos seus projetos e liberar seu potencial. Bom aprendizado e boa programação! 🎉
+Sinta-se à vontade para explorar estes notebooks no seu próprio ritmo, adaptá-los aos seus projetos e liberar seu potencial. Bom aprendizado e boa programação! 🎉 **LinkedIn:**  [Conecte-se](https://www.linkedin.com/in/vidhi-waghela-434663198/)
